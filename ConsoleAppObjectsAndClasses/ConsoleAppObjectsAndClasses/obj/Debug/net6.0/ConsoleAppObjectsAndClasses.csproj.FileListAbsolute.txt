@@ -1,0 +1,15 @@
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.csproj.AssemblyReference.cache
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.AssemblyInfoInputs.cache
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.AssemblyInfo.cs
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.csproj.CoreCompileInputs.cache
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\bin\Debug\net6.0\ConsoleAppObjectsAndClasses.exe
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\bin\Debug\net6.0\ConsoleAppObjectsAndClasses.deps.json
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\bin\Debug\net6.0\ConsoleAppObjectsAndClasses.runtimeconfig.json
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\bin\Debug\net6.0\ConsoleAppObjectsAndClasses.dll
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\bin\Debug\net6.0\ConsoleAppObjectsAndClasses.pdb
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.dll
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\refint\ConsoleAppObjectsAndClasses.dll
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.pdb
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ConsoleAppObjectsAndClasses.genruntimeconfig.cache
+D:\LU Studies\Repo\NViksnaMD3\ConsoleAppObjectsAndClasses\ConsoleAppObjectsAndClasses\obj\Debug\net6.0\ref\ConsoleAppObjectsAndClasses.dll
